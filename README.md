@@ -5,6 +5,8 @@ CongressPizza automatically summarizes hours of congressional proceedings into t
 
 Very much a work in progress.
 
+This repo forked by Ross Goodwin from Daniel McLaughlin's original repo for purposes of experimentation and self-enlightenment.
+
 ## To Do:
 * Handle videos multipart videos (>1hr)
 * More robust summarization
